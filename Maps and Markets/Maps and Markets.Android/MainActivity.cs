@@ -19,8 +19,8 @@ namespace Maps_and_Markets.Droid
         private HuaweiMap hMap;
         private int Index = 0;
         private LatLng[] coors = new LatLng[] { 
-            new LatLng(20.0331364,-88.8711063) ,
-            new LatLng(19.4266932, -99.1739945) ,
+            new LatLng(20.0331364,-88.8711063),
+            new LatLng(19.4266932, -99.1739945),
             new LatLng(22.4021434, -101.4854814)
         };
 
